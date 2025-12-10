@@ -36,9 +36,9 @@ All through natural language — just describe your technical problem and let it
 ### Prerequisites
 
 * An MCP-compatible client (e.g., Claude Desktop, Cursor, Visual Studio Code, etc).
-* A Stack Overflow account (free to join).
+* A Stack Overflow account ([free to join](https://stackoverflow.com/users/signup)).
 
-Read the **[official documentation](https://github.com/StackExchange/stack-mcp)** to set up the Stack Overflow MCP Server in your client.
+Read the **[official documentation](https://api.stackexchange.com/docs/mcp-server)** to set up the Stack Overflow MCP Server in your client.
 
 > **Note:** The beta server is currently limited to 100 calls per day per user.
 
@@ -48,5 +48,5 @@ Read the **[official documentation](https://github.com/StackExchange/stack-mcp)*
 
 This is a beta server, and your input is critical to its evolution.
 
-* **Support:** Use our [contact form](https://github.com/StackExchange/stack-mcp)
-* **Feedback:** Share your thoughts in our [feedback form](https://github.com/StackExchange/stack-mcp)
+* **Support:** Use our [contact form](https://stackoverflow.com/contact)
+* **Feedback:** Share your thoughts in our [feedback form](https://forms.gle/oTLpxPQ6CGfS4Axp7)
